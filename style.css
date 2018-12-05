@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+
+#head{
+    background: olivedrab;
+    height: 100px;
+    width: 100%;
+    margin: 5px;
+}
+
+#head-link{
+    background: bisque;
+    height: 40px;
+    width: 100%;
+    margin: 5px;
+}
+
+#left{
+    background: aquamarine;
+    height: 500px;
+    width: 20%;
+    margin: 5px;
+    float: left;
+}
+
+#content{
+    background: coral;
+    height: 500px;
+    width: 50%;
+    margin: 5px;
+    float: left;
+}
+
+#right{
+    background: chartreuse;
+    height: 500px;
+    width: 27%;
+    margin: 5px;
+    float: right;
+}
+
+#footer{
+    background: cornflowerblue;
+    height: 80px;
+    width: 100%;
+    margin: 5px;
+    clear: both;
+}
+
